@@ -13,3 +13,11 @@ The report will track:
 * Average Debt-to-Income Ratio (DTI)
 
 This comprehensive analysis will provide actionable insights to help make data-driven decisions and evaluate the health of the loan portfolio.
+
+# Dashboard Overview:
+Bank Loan Report | Summary <br />
+Bank Loan Report | Overview <br />
+Bank Loan Report | Details <br />
+
+![Image](https://github.com/user-attachments/assets/8fd61bde-be5c-4dd0-9996-009527753603)    ![Image](https://github.com/user-attachments/assets/40c6c16b-0af0-4908-bbd3-731b8491cf9f)
+
