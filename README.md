@@ -31,7 +31,7 @@ Bank Loan Report | Overview <br />
 
 ## Dashboard 2: 
 * **Visual Overview:** Leveraging Excel’s charting capabilities, I created visual representations such as: <br />
- - Line Charts for Monthly Trends by Issue Date <br />
+ --- Line Charts for Monthly Trends by Issue Date <br />
  - Filled Maps for Regional Analysis <br />
  - Donut Charts for Loan Term Analysis <br />
  - Bar Charts for Employee Length and Loan Purpose Breakdown <br />
