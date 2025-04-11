@@ -45,8 +45,7 @@ Bank Loan Report | Overview <br />
 • 53.3% (232.46M) of the total loan amount is taken for debt consolidation. <br />
 • States with a bad loan percentage higher than average i.e. 13.8% should try to reduce it to the average. <br />
 
-
-
-
+# Conclusion
+This Power BI report will offer a complete view of the lending landscape by breaking down loan performance, identifying trends, and supporting strategic decision-making.
 
 
