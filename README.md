@@ -30,8 +30,9 @@ Bank Loan Report | Overview <br />
   Additionally, I dived into the analysis of Good Loan vs Bad Loan KPIs, breaking down the data to understand the quality and performance of our loan portfolio better.
 
 ## Dashboard 2: 
-* **Visual Overview:** Leveraging Excel’s charting capabilities, I created visual representations such as: <br />
- --- Line Charts for Monthly Trends by Issue Date <br />
+**Visual Overview:** Leveraging Excel’s charting capabilities, I created visual representations such as: <br />
+ 
+ - Line Charts for Monthly Trends by Issue Date <br />
  - Filled Maps for Regional Analysis <br />
  - Donut Charts for Loan Term Analysis <br />
  - Bar Charts for Employee Length and Loan Purpose Breakdown <br />
